@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fFbXZx41v9UCp2XNeLtUJJLX/rq6cysl3HfdavGeCKSnogCT1Q/UkNvGwdw56uBrlLmZGiPlIKbzJ1ZCGJArdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Barış\\source\\repos\\Stok_Takip\\Stok_Takip.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Barış\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
